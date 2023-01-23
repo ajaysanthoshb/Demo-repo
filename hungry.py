@@ -5,6 +5,5 @@ if n == "HUNGRY":
     print("I like burger")
 else:
     thristy = input("are u thirsty")
-    if thirsty:
-        print("drink water")
+    
     
