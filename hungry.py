@@ -2,4 +2,6 @@ n = input()
 if n == "HUNGRY":
     print("print HUNGRY")
 else:
-    print("NOPE")
+    thristy = input("are u thirsty")
+    if thirsty:
+        print("drink water")
