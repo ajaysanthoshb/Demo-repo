@@ -5,6 +5,8 @@ if n == "HUNGRY":
     print("I like burger")
 else:
     thristy = input("are u thirsty")
+    print("git pull")
     if thirsty:
         print("drink water")
     print("Hey I added a new line")
+
